@@ -1,0 +1,3 @@
+cd C:\Users\saras\OneDrive\Desktop\project\Sustainable_NYC_Taxi_ML
+.\.venv\Scripts\Activate.ps1
+streamlit run app.py
